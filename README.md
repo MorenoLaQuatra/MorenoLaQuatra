@@ -3,7 +3,7 @@ Hi, I'm Moreno La Quatra
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
-I'm a post-doc researcher at (STMLab)[https://github.com/K-STMLab).
+I'm a post-doc researcher at [STMLab](https://github.com/K-STMLab).
 
 - I’m interested in 📝 NLP, 🔉 Audio processing and 🖼️ Multimodal Learning.
 - If you are a master student 👨‍🎓 👩‍🎓 interested in some of the fields above, you may want to take a look to [this repo](https://github.com/MorenoLaQuatra/master-thesis-proposals).
