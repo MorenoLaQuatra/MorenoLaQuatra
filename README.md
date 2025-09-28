@@ -3,21 +3,21 @@ Hi, I'm Moreno La Quatra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4i
 </h1>
 <br/>
 
-🎓 I'm an **Assistant Professor** in Artificial Intelligence and Machine Learning at [STMLab](https://github.com/K-STMLab), Università degli Studi di Enna "Kore".
+*I spend my days trying to move things closer if they're similar, and further apart otherwise. Coincidentally, this aligns with ML/DL.*
 
-My research focuses on:
+I'm an Assistant Professor in AI and Machine Learning at [STMLab](https://github.com/K-STMLab), Università degli Studi di Enna "Kore". 
+My research focus:
+- 📝 NLP
+- 🔉 speech and audio processing
+-  🖼️ multimodal learning.
 
-- 📝 Natural Language Processing
-- 🔉 Speech and Audio Processing
-- 🖼️ Multimodal Learning
+I'm particularly interested in how machines can understand both general audio content and spoken language – things like new architectures for audio understanding, pathological voice analysis, and expressive speech modeling.
 
+---
 
-I’m particularly interested in how machines can understand and process both **general audio content** and **spoken language** i.e. new architecture that push forward audio understanding, pathological voice analysis, expressive speech modeling.
+🚀 I actively collaborate on research in speech-based DL. If you're passionate about **audio representation learning**, **spoken content analysis**, or **multilingual/multimodal learning**, please don't hesitate to reach out.
 
-🚀 I actively collaborate on research in speech-based DL. If you're passionate about **audio representation learning**, **spoken content analysis**, or **multilingual/multimodal learning**, feel free to reach out.
-
-🎓 Are you a master's student curious about these fields?  
-Take a look at my [thesis proposals](https://github.com/MorenoLaQuatra/master-thesis-proposals) — I’m always happy to mentor motivated students on research-driven projects.
+**For master's students:** If you're curious about these areas, I have [thesis proposals](https://github.com/MorenoLaQuatra/master-thesis-proposals) available and I'm happy to discuss about research-driven projects.
 
 ---
 
